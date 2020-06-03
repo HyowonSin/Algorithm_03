@@ -1,23 +1,25 @@
 트레인이미지는 1번으로 통일하였습니다.
 ![image](https://user-images.githubusercontent.com/48724199/83643872-8d047a80-a5eb-11ea-9344-dab6f935bd9f.png)
 
+
 1번 CNN 모델 선택
-![image](https://user-images.githubusercontent.com/48724199/83643916-9e4d8700-a5eb-11ea-8608-9788791831a0.png)
+![image](https://user-images.githubusercontent.com/48724199/83644498-50854e80-a5ec-11ea-8745-f4d919af4a95.png)
 
 1번 CNN 모델의 서머리입니다.
-![image](https://user-images.githubusercontent.com/48724199/83640963-d4890780-a5e7-11ea-8101-d6282eff5c96.png)
+![image](https://user-images.githubusercontent.com/48724199/83644535-5bd87a00-a5ec-11ea-84fb-fc93d4a4543f.png)
 
 1번 CNN 모델의 로스율과 정확도입니다.
-![image](https://user-images.githubusercontent.com/48724199/83641055-f4b8c680-a5e7-11ea-8751-585b83f477f6.png)
+![image](https://user-images.githubusercontent.com/48724199/83644673-7f032980-a5ec-11ea-81ca-2cd93b0be2d7.png)
 
 1번 CNN 모델의 실행 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83641486-950eeb00-a5e8-11ea-8f49-ef738607398e.png)
+![image](https://user-images.githubusercontent.com/48724199/83644739-8fb39f80-a5ec-11ea-8657-6bd3d2867898.png)
 
 1번 CNN 모델의 에러 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83641585-b53eaa00-a5e8-11ea-9016-5f63cb1ce80f.png)
+![image](https://user-images.githubusercontent.com/48724199/83644775-9b06cb00-a5ec-11ea-9bd2-d274b39c3118.png)
+
 
 2번 CNN 모델 선택
-![image](https://user-images.githubusercontent.com/48724199/83643968-b02f2a00-a5eb-11ea-84ab-24776ea80096.png)
+![image](https://user-images.githubusercontent.com/48724199/83644341-22a00a00-a5ec-11ea-8d65-64db993b55bb.png)
 
 2번 CNN 모델의 서머리입니다.
 ![image](https://user-images.githubusercontent.com/48724199/83644019-be7d4600-a5eb-11ea-83e3-7f28c1edc555.png)
@@ -31,18 +33,18 @@
 2번 CNN 모델의 에러 결과입니다.
 ![image](https://user-images.githubusercontent.com/48724199/83644255-0b611c80-a5ec-11ea-9981-0d88fdee65d1.png)
 
+
 3번 CNN 모델 선택
-![image](https://user-images.githubusercontent.com/48724199/83642482-d94ebb00-a5e9-11ea-8054-8b0d121e325b.png)
+![image](https://user-images.githubusercontent.com/48724199/83644855-b4a81280-a5ec-11ea-91f5-f86c9ab00c1e.png)
 
 3번 CNN 모델의 서머리입니다.
-![image](https://user-images.githubusercontent.com/48724199/83642524-e8356d80-a5e9-11ea-80e2-3a9a0ea99762.png)
+![image](https://user-images.githubusercontent.com/48724199/83644901-bffb3e00-a5ec-11ea-89ab-b5efd8117c81.png)
 
 3번 CNN 모델의 로스율과 정확도입니다.
-![image](https://user-images.githubusercontent.com/48724199/83643613-326b1e80-a5eb-11ea-81a8-612117099cce.png)
-![image](https://user-images.githubusercontent.com/48724199/83642961-71e53b00-a5ea-11ea-9650-0d85bf6859bc.png)
+![image](https://user-images.githubusercontent.com/48724199/83645443-76f7b980-a5ed-11ea-99a2-b9e97060950c.png)
 
 3번 CNN 모델의 실행 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83643005-80cbed80-a5ea-11ea-97da-b83f96b111d4.png)
+![image](https://user-images.githubusercontent.com/48724199/83645497-86770280-a5ed-11ea-958a-5aa53a4ae616.png)
 
 3번 CNN 모델의 에러 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83643061-8fb2a000-a5ea-11ea-89c7-cb3fc403c4bd.png)
+![image](https://user-images.githubusercontent.com/48724199/83645539-92fb5b00-a5ed-11ea-84c4-cd4921584ef5.png)
