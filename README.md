@@ -38,6 +38,7 @@
 ![image](https://user-images.githubusercontent.com/48724199/83642524-e8356d80-a5e9-11ea-80e2-3a9a0ea99762.png)
 
 3번 CNN 모델의 로스율과 정확도입니다.
+![image](https://user-images.githubusercontent.com/48724199/83643613-326b1e80-a5eb-11ea-81a8-612117099cce.png)
 ![image](https://user-images.githubusercontent.com/48724199/83642961-71e53b00-a5ea-11ea-9650-0d85bf6859bc.png)
 
 3번 CNN 모델의 실행 결과입니다.
