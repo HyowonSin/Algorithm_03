@@ -1,2 +1,12 @@
-# Algorithm_03
-![캡처](https://user-images.githubusercontent.com/48724199/83587182-67df2000-a589-11ea-9a81-78a34e6cba04.JPG)
+![image](https://user-images.githubusercontent.com/48724199/83640727-8247e680-a5e7-11ea-8842-7b16a7653993.png)
+트레인이미지는 1번으로 통일하였습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/83640536-385f0080-a5e7-11ea-9977-11925c0efe08.png)
+1번 CNN 모델 선택
+
+![image](https://user-images.githubusercontent.com/48724199/83640963-d4890780-a5e7-11ea-8101-d6282eff5c96.png)
+1번 CNN 모델의 서머리입니다.
+
+![image](https://user-images.githubusercontent.com/48724199/83641055-f4b8c680-a5e7-11ea-8751-585b83f477f6.png)
+1번 CNN 모델의 로스율과 정확도입니다.
+
