@@ -1,8 +1,8 @@
 트레인이미지는 1번으로 통일하였습니다.
-![image](https://user-images.githubusercontent.com/48724199/83640727-8247e680-a5e7-11ea-8842-7b16a7653993.png)
+![image](https://user-images.githubusercontent.com/48724199/83643872-8d047a80-a5eb-11ea-9344-dab6f935bd9f.png)
 
 1번 CNN 모델 선택
-![image](https://user-images.githubusercontent.com/48724199/83640536-385f0080-a5e7-11ea-9977-11925c0efe08.png)
+![image](https://user-images.githubusercontent.com/48724199/83643916-9e4d8700-a5eb-11ea-8608-9788791831a0.png)
 
 1번 CNN 모델의 서머리입니다.
 ![image](https://user-images.githubusercontent.com/48724199/83640963-d4890780-a5e7-11ea-8101-d6282eff5c96.png)
@@ -17,19 +17,19 @@
 ![image](https://user-images.githubusercontent.com/48724199/83641585-b53eaa00-a5e8-11ea-9016-5f63cb1ce80f.png)
 
 2번 CNN 모델 선택
-![image](https://user-images.githubusercontent.com/48724199/83641880-1797aa80-a5e9-11ea-8072-234d41695d3f.png)
+![image](https://user-images.githubusercontent.com/48724199/83643968-b02f2a00-a5eb-11ea-84ab-24776ea80096.png)
 
 2번 CNN 모델의 서머리입니다.
-![image](https://user-images.githubusercontent.com/48724199/83642135-69d8cb80-a5e9-11ea-9717-60db21c638c4.png)
+![image](https://user-images.githubusercontent.com/48724199/83644019-be7d4600-a5eb-11ea-83e3-7f28c1edc555.png)
 
 2번 CNN 모델의 로스율과 정확도입니다.
-![image](https://user-images.githubusercontent.com/48724199/83642248-8b39b780-a5e9-11ea-8cb4-4038010adf2f.png)
+![image](https://user-images.githubusercontent.com/48724199/83644139-e8cf0380-a5eb-11ea-8d3a-5202785de02d.png)
 
 2번 CNN 모델의 실행 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83642326-a5739580-a5e9-11ea-982e-1c0c98ddb115.png)
+![image](https://user-images.githubusercontent.com/48724199/83644206-fedcc400-a5eb-11ea-8291-559bb58cf54e.png)
 
 2번 CNN 모델의 에러 결과입니다.
-![image](https://user-images.githubusercontent.com/48724199/83642370-b6240b80-a5e9-11ea-8c01-ee41b44f1bc3.png)
+![image](https://user-images.githubusercontent.com/48724199/83644255-0b611c80-a5ec-11ea-9981-0d88fdee65d1.png)
 
 3번 CNN 모델 선택
 ![image](https://user-images.githubusercontent.com/48724199/83642482-d94ebb00-a5e9-11ea-8054-8b0d121e325b.png)
